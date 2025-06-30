@@ -57,7 +57,8 @@ docker run --rm --gpus all sr_swinir
 Unsplash  
 Unsplash 데이터셋은 약 25,000장의 다양한 클래스를 가진 공개 이미지 데이터셋 입니다. 이 데이터셋은 다양한 클래스의 이미지를 이용한 모델을 작업하는데 적합합니다.
   
-데이터셋은 공식 사이트`https://unsplash.com/ko`에서 무료로 다운로드 가능하며, 해당 작업물에는 `datasets/unsplash` 폴더에 **샘플 이미지**만 포함되어 있습니다.  
+데이터셋은 공식 사이트`https://unsplash.com/ko`에서 무료로 다운로드 가능합니다.  
+해당 작업물에는 `datasets/unsplash` 폴더에 **샘플 이미지**만 포함되어 있습니다.  
 
 ---
 

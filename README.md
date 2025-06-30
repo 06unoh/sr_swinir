@@ -72,9 +72,9 @@ Test Dice Score: 72.96%
 
 예측 결과 예시:
 
-![샘플 예측 결과1](images/proj_con1.png)  
-![샘플 예측 결과2](images/proj_con2.png)  
-![샘플 예측 결과3](images/porj_con3.png)
+![샘플 예측 결과1](image/proj_con1.png)  
+![샘플 예측 결과2](image/proj_con2.png)  
+![샘플 예측 결과3](image/porj_con3.png)
 
 ---
 소개 페이지: 
